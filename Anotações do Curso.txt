@@ -41,7 +41,7 @@ Ambientes de desenvolvimento:
 -staging area (arquivos tracked)
 -local repository (composto por commits)
 
-Servidor: remote repositiry (GitHub)
+Servidor: remote repository (GitHub)
 
 Conflito de Merge (diferença de versões)
 
