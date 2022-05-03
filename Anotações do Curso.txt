@@ -1,4 +1,57 @@
 Link importantes: 
-
 https://typora.io/
 https://github.com/
+
+Principais comandos:
+cd + pasta
+cd ..
+ls
+ls -a
+mkdir + pasta a ser criada 
+Ctrl + l
+del/rmdir pasta /S /Q
+git init (inicia o repositório)
+ls-a (mostra arquivos acultos)
+git init (cria o repositorio dentro da pasta)
+git add
+git comit -m "msg de texto"
+git config --list
+git config --global user.email "arianarusso@hotmail.com"
+git config --global user.name "ArianaRusso" 
+git status
+git clone https://github.com/ArianaRusso/dio-desafio-github.git
+git remote add origin + link
+git remote -v
+git push origin master
+git pull origin master
+
+SHA (Secure Hash Algorithm): encriptação que gera um conjunto de caracteres identificador.
+
+Objetos do Git: BLOBS, TREES e COMMITS 
+
+Ciclo de vida:
+*Untracked (arquivos que o git não tem conhecimento)
+*Tracked: 
+-unmodified (arquivo ainda não modificado)
+-modified (arquivo modificado)
+-staged (area de espera)
+
+Ambientes de desenvolvimento: 
+-working directory (arquivos untracked)
+-staging area (arquivos tracked)
+-local repository (composto por commits)
+
+Servidor: remote repositiry (GitHub)
+
+Conflito de Merge (diferença de versões)
+
+
+
+
+
+
+
+
+
+
+
